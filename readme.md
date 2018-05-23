@@ -16,6 +16,6 @@ ds
 
  **énfasis fuerte** (negrita)
  
- ![prueba](URL "Título de la imagen")
+ ![prueba](https://github.com/omaymo/Curso/blob/master/images.jpeg "Pepe")
  
  
