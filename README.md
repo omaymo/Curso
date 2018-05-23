@@ -1,3 +1,0 @@
-# Curso
-
-Pepe asesino
